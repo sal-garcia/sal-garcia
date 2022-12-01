@@ -1,11 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm sal
 
-<!--
-**sal-garcia/sal-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hi 👋, I'm sal
 A passionate fullstack developer from southern california
 
 🌱 I’m currently studying cybersecurity in WGU
