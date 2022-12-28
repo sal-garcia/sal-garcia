@@ -12,7 +12,7 @@ A passionate fullstack developer from southern california
 
 ⚡ Fun fact I lived in Mexico for 5 years
 
-📡 Connect with me: https://linkedin.com/in/https://www.linkedin.com/in/sal-garcia1/
+📡 Connect with me: https://www.linkedin.com/in/sal-garcia1/
 Languages and Tools:
 CSS3
 docker
