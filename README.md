@@ -2,7 +2,7 @@
 
 A passionate fullstack developer from southern california
 
-🌱 I’m currently studying cybersecurity in WGU
+🌱 In a nearby future i plan to further my studies by obtaining a bachelors in cybersecurity in WGU
 
 💬 Ask me about Front end web development technologies
 
